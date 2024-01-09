@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94925173849",
+    "project_id": "sandbox-notifications-a920b",
+    "storage_bucket": "sandbox-notifications-a920b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94925173849:android:6861e8b1c4fe03f9c3ed48",
+        "android_client_info": {
+          "package_name": "com.chombazm.bwembia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUhYw3bEhKkdGO6tulb33PjWLMD5WFQPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
